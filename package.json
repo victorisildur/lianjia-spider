@@ -1,0 +1,22 @@
+{
+  "name": "lianjia-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorisildur/lianjia-spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorisildur/lianjia-spider/issues"
+  },
+  "homepage": "https://github.com/victorisildur/lianjia-spider#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
