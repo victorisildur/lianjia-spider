@@ -18,5 +18,9 @@
   "homepage": "https://github.com/victorisildur/lianjia-spider#readme",
   "dependencies": {
     "cheerio": "^0.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.5",
+    "typescript": "^2.2.1"
   }
 }
